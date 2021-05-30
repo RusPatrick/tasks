@@ -1,4 +1,4 @@
-package tasks
+package main
 
 import (
 	"github.com/ruspatrick/tasks/internal/controllers"
